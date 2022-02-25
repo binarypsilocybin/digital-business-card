@@ -5,7 +5,7 @@ export default function Info(){
     return (
            <div className="info">
             <div className="">
-             <img src={reactImg} />
+             <img src={reactImg} alt=""/>
             <div className="info-details">
                 <h1>Laura Smith</h1>
                 <h3>Frontend Developer</h3>

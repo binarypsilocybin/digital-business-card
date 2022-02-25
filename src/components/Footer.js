@@ -8,10 +8,10 @@ import Twitter from "../images/Twitter Icon.png"
 export default function Footer(){
     return (
        <div className="footer">
-           <img src={Facebook}/>
-           <img src={GitHub} />
-           <img src={Instagram} />
-           <img src={Twitter} />
+           <img src={Facebook} alt=""/>
+           <img src={GitHub} alt=""/>
+           <img src={Instagram} alt=""/>
+           <img src={Twitter} alt=""/>
        </div>
     ) 
 }
